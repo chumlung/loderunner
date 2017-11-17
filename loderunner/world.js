@@ -1,6 +1,6 @@
 canvas = document.getElementById("canvas");
-canvas.height = window.innerHeight-40;
-canvas.width = window.innerWidth-44;
+canvas.height = window.innerHeight-24;
+canvas.width = window.innerWidth-14;
 ctx = canvas.getContext("2d");
 map_W = 30;
 map_H = 15;
